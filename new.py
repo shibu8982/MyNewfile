@@ -9,3 +9,7 @@ print("Hello this is me")
 
 class Person:
     pass
+
+def myfunction():
+    print("My first programme")
+myfunction()
