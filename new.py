@@ -6,3 +6,6 @@ c = a + b
 print(c)
 
 print("Hello this is me")
+
+class Person:
+    pass
